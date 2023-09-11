@@ -7,7 +7,7 @@ global.owner = [
   ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
   ['xxxxxxxxxx',],
   //['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
+  ['393349536163',],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
 ] //Numero degli owner
@@ -85,7 +85,7 @@ global.maxwarn = '4' // máxima advertencias
 
 //════════════ •⊰✧⊱• ════════════
 
-global.wm = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.wm = 'webboh.reggioemilia'
 global.wait = '𝐅𝐚𝐭𝐭𝐨 ✓'
 global.rwait = '⌛'
 global.dmoji = '🤭'
